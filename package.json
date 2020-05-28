@@ -1,0 +1,23 @@
+{
+  "name": "barklegne-portfolio",
+  "version": "1.0.0",
+  "description": "V1.0 pure HTML &  CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barklegne/portfolio.git"
+  },
+  "author": "Barklegne Eshetu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barklegne/portfolio/issues"
+  },
+  "homepage": "https://github.com/Barklegne/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1",
+    "save-dev": "0.0.1-security"
+  }
+}
